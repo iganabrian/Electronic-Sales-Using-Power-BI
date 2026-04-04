@@ -106,7 +106,7 @@ I applied the same logic to count No. of Sales Rep, Products and Cities.
 
 ## Data visualisation
 
-To make my dashboard presentable, I created a wireframe using power point to design where and how my KPIs and Charts will be displyed. 
+To make my dashboard presentable, I created a wireframe using power point to design where and how my KPIs and Charts will be displayed. 
 
 -Barcharts
 
